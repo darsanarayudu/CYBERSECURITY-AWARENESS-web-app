@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+=======
+# CYBERSECURITY-AWARENESS-web-app
+An interactive cybersecurity awareness app with modules on password safety, phishing, social engineering, and secure browsing, featuring a WiFi Sniffer Simulation to demonstrate public WiFi risks.
+>>>>>>> 9388b683fb7ec0bc3197e65ea759458d5c6e4c27
